@@ -17,4 +17,4 @@ port = 8080
 #   LOG configurations                #
 #######################################
 [log]
-level = "info"
+level = "debug"

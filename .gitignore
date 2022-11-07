@@ -12,3 +12,4 @@ Cargo.lock
 debug/
 target/
 .vscode/
+/live
